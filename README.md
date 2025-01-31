@@ -38,7 +38,8 @@ Toasts/Notifications: React Hot Toast
 Clone the repository and install dependencies:
 
 # Clone the repo
-git clone 
+git clone https://github.com/harshshukla9/Let-s-Connect.git
+
 cd letsconnect
 
 # Install dependencies
@@ -99,5 +100,5 @@ We welcome contributions! Feel free to fork the repo, create a feature branch, a
 
 This project is licensed under the MIT License.
 
-💙 Made with ❤️ by Your Name
+💙 Made with ❤️ by Harsh Shukla
 
